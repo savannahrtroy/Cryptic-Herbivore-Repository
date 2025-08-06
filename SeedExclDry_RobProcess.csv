@@ -1,0 +1,232 @@
+"","obsid","id","date","observer","plot","exclosure","cluster","treatment","trial","trialday","initial.seeds","seeds.remaining","seeds.intact","seeds.partial","initial.germ","no.germ.intact","germ.consumed","germ.partial","notes","scribe","entry","exposure","maxday","max","seed.ratio","failure","germ.ratio","failuregerm"
+"1","10A1Bird",349,"01/07/2023","Charisse, Amy, Monica",10,"fenced","A","Bird","1",5,30,30,30,0,5,3,2,0,NA,"CS","SN",5,5,1,1,0,0.6,2
+"2","10A1Control",346,"01/07/2023","Charisse, Amy, Monica",10,"fenced","A","Control","1",5,30,5,5,0,8,4,4,0,NA,"CS","SN",5,5,1,0.166666666666667,25,0.5,4
+"3","10A1Full",347,"01/07/2023","Charisse, Amy, Monica",10,"fenced","A","Full","1",5,29,29,29,0,5,5,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"4","10A1RodentBird",348,"01/07/2023","Charisse, Amy, Monica",10,"fenced","A","RodentBird","1",5,29,29,29,0,7,4,3,0,NA,"CS","SN",5,5,1,1,0,1,0
+"5","10A2Bird",757,"08/07/2023","Linda, Logan, Gugu",10,"fenced","A","Bird","2",5,30,15,15,0,6,1,5,0,NA,"LM","CS",5,5,1,0.5,15,0.166666666666667,5
+"6","10A2Control",754,"08/07/2023","Linda, Logan, Gugu",10,"fenced","A","Control","2",5,30,22,22,0,5,0,5,0,NA,"LM","CS",5,5,1,0.733333333333333,8,0,5
+"7","10A2Full",755,"08/07/2023","Linda, Logan, Gugu",10,"fenced","A","Full","2",5,30,30,30,0,4,4,0,0,NA,"LM","CS",5,5,1,1,0,1,0
+"8","10A2RodentBird",756,"08/07/2023","Linda, Logan, Gugu",10,"fenced","A","RodentBird","2",5,30,30,30,0,5,5,0,0,NA,"LM","CS",5,5,1,1,0,1,0
+"9","10A3Bird",1061,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","A","Bird","3",5,30,6,6,0,4,0,4,0,NA,"SN","LM",5,5,1,0.2,24,0,4
+"10","10A3Control",1058,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","A","Control","3",5,30,1,1,0,2,0,2,0,NA,"SN","LM",5,5,1,0.0333333333333333,29,0,2
+"11","10A3Full",1059,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","A","Full","3",5,29,29,29,0,4,4,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"12","10A3RodentBird",1060,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","A","RodentBird","3",5,30,30,30,0,3,3,0,0,"all dead","SN","LM",5,5,1,1,0,1,0
+"13","10APilotBird",38,"24/06/2023","Charisse, Linda, Logan",10,"fenced","A","Bird","Pilot",2,20,20,20,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,1,0,NA,NA
+"14","10APilotControl",37,"24/06/2023","Charisse, Linda, Logan",10,"fenced","A","Control","Pilot",2,20,17,17,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,0.85,3,NA,NA
+"15","10B1Bird",353,"01/07/2023","Charisse, Amy, Monica",10,"fenced","B","Bird","1",5,30,13,13,0,7,7,0,0,NA,"CS","SN",5,5,1,0.433333333333333,17,1,0
+"16","10B1Control",350,"01/07/2023","Charisse, Amy, Monica",10,"fenced","B","Control","1",5,30,0,0,0,7,0,7,0,NA,"CS","SN",5,5,1,0,30,0,7
+"17","10B1Full",199,"29/06/2023","Charisse, Sage, Logan, Gugu, Monica, Phum",10,"fenced","B","Full","1",3,30,30,30,0,3,3,0,0,NA,"SN","SN",3,3,1,1,0,1,0
+"18","10B1RodentBird",352,"01/07/2023","Charisse, Amy, Monica",10,"fenced","B","RodentBird","1",5,29,29,29,0,7,7,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"19","10B2Bird",761,"08/07/2023","Linda, Logan, Gugu",10,"fenced","B","Bird","2",5,30,0,0,0,3,0,3,0,NA,"LM","CS",5,5,1,0,30,0,3
+"20","10B2Control",758,"08/07/2023","Linda, Logan, Gugu",10,"fenced","B","Control","2",5,30,0,0,0,3,0,3,0,NA,"LM","CS",5,5,1,0,30,0,3
+"21","10B2Full",759,"08/07/2023","Linda, Logan, Gugu",10,"fenced","B","Full","2",5,30,30,30,0,0,0,0,0,NA,"LM","CS",5,5,1,1,0,NA,NA
+"22","10B2RodentBird",760,"08/07/2023","Linda, Logan, Gugu",10,"fenced","B","RodentBird","2",5,23,23,23,0,0,0,0,0,NA,"LM","CS",4,5,1,1,0,NA,NA
+"23","10B3Bird",1065,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","B","Bird","3",5,30,0,0,0,2,0,2,0,NA,"SN","LM",5,5,1,0,30,0,2
+"24","10B3Control",1062,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","B","Control","3",5,30,0,0,0,5,0,5,0,NA,"SN","LM",5,5,1,0,30,0,5
+"25","10B3Full",1063,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","B","Full","3",5,30,30,30,0,3,3,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"26","10B3RodentBird",1064,"14/7/2023","Sage, Amy, Curtis, Phum",10,"fenced","B","RodentBird","3",5,30,30,30,0,5,5,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"27","10BPilotBird",40,"24/06/2023","Charisse, Linda, Logan",10,"fenced","B","Bird","Pilot",2,30,29,29,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,0.966666666666667,1,NA,NA
+"28","10BPilotControl",39,"24/06/2023","Charisse, Linda, Logan",10,"fenced","B","Control","Pilot",2,20,20,20,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,1,0,NA,NA
+"29","11A1Bird",397,"01/07/2023","Linda, Logan, Alfredo",11,"control","A","Bird","1",5,30,13,13,0,7,7,0,0,NA,"LM","SN",5,5,1,0.433333333333333,17,1,0
+"30","11A1Control",394,"01/07/2023","Linda, Logan, Alfredo",11,"control","A","Control","1",5,30,4,2,2,5,5,0,0,NA,"LM","SN",5,5,1,0.0666666666666667,28,1,0
+"31","11A1Full",395,"01/07/2023","Linda, Logan, Alfredo",11,"control","A","Full","1",5,29,29,29,0,4,4,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"32","11A1RodentBird",396,"01/07/2023","Linda, Logan, Alfredo",11,"control","A","RodentBird","1",5,30,30,30,0,8,8,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"33","11A2Bird",709,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","A","Bird","2",5,30,0,0,0,8,0,8,0,NA,"CS","CS",5,5,1,0,30,0,8
+"34","11A2Control",706,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","A","Control","2",5,30,0,0,0,8,4,4,0,NA,"CS","CS",5,5,1,0,30,0.5,4
+"35","11A2Full",707,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","A","Full","2",5,30,30,30,0,4,4,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"36","11A2RodentBird",708,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","A","RodentBird","2",5,29,29,29,0,5,5,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"37","11A3Bird",1069,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","A","Bird","3",5,30,0,0,0,4,1,3,0,NA,"SN","LM",5,5,1,0,30,0.25,3
+"38","11A3Control",1066,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","A","Control","3",5,30,0,0,0,5,3,2,0,NA,"SN","LM",5,5,1,0,30,0.6,2
+"39","11A3Full",1067,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","A","Full","3",5,30,30,30,0,6,6,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"40","11A3RodentBird",1068,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","A","RodentBird","3",5,30,30,30,0,3,3,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"41","11B1Bird",401,"01/07/2023","Linda, Logan, Alfredo",11,"control","B","Bird","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"42","11B1Control",398,"01/07/2023","Linda, Logan, Alfredo",11,"control","B","Control","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"43","11B1Full",399,"01/07/2023","Linda, Logan, Alfredo",11,"control","B","Full","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"44","11B1RodentBird",400,"01/07/2023","Linda, Logan, Alfredo",11,"control","B","RodentBird","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"45","11B2Bird",713,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","B","Bird","2",5,30,30,30,0,4,4,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"46","11B2Control",710,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","B","Control","2",5,30,30,30,0,5,5,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"47","11B2Full",711,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","B","Full","2",5,30,30,30,0,4,4,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"48","11B2RodentBird",712,"08/07/2023","Charisse, Curtis, Monica, Abbey",11,"control","B","RodentBird","2",5,29,29,29,0,5,5,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"49","11B3Bird",1073,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","B","Bird","3",5,30,30,30,0,4,4,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"50","11B3Control",1070,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","B","Control","3",5,30,13,13,0,5,4,1,0,NA,"SN","LM",5,5,1,0.433333333333333,17,0.8,1
+"51","11B3Full",1071,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","B","Full","3",5,30,30,30,0,5,5,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"52","11B3RodentBird",1072,"14/7/2023","Sage, Amy, Curtis, Phum",11,"control","B","RodentBird","3",5,30,30,30,0,5,5,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"53","18A1Bird",389,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","A","Bird","1",5,30,30,30,0,6,6,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"54","18A1Control",386,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","A","Control","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"55","18A1Full",387,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","A","Full","1",5,30,30,30,0,6,6,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"56","18A1RodentBird",388,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","A","RodentBird","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"57","18A2Bird",741,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","A","Bird","2",5,30,30,30,0,5,5,0,0,"new germ needed","LM","CS",5,5,1,1,0,1,0
+"58","18A2Control",738,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","A","Control","2",5,30,30,30,0,5,2,3,0,NA,"LM","CS",5,5,1,1,0,0.4,3
+"59","18A2Full",739,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","A","Full","2",5,30,30,30,0,7,4,3,0,NA,"LM","CS",5,5,1,1,0,0.571428571428571,3
+"60","18A2RodentBird",740,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","A","RodentBird","2",5,30,30,30,0,6,6,0,0,NA,"LM","CS",5,5,1,1,0,1,0
+"61","18A3Bird",1037,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","A","Bird","3",5,30,30,30,0,5,4,1,0,"2 dead","CS","LM",4,5,1,1,0,0.8,1
+"62","18A3Control",1034,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","A","Control","3",5,30,30,30,0,3,2,1,0,NA,"CS","LM",4,5,1,1,0,0.666666666666667,1
+"63","18A3Full",1035,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","A","Full","3",5,27,27,27,0,4,4,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"64","18A3RodentBird",1036,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","A","RodentBird","3",5,30,30,29,1,1,1,0,0,NA,"CS","LM",4,5,1,0.966666666666667,1,1,0
+"65","18B1Bird",393,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","B","Bird","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"66","18B1Control",390,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","B","Control","1",5,30,30,30,0,6,1,5,0,NA,"LM","SN",5,5,1,1,0,0.166666666666667,5
+"67","18B1Full",391,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","B","Full","1",5,30,30,30,0,7,7,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"68","18B1RodentBird",392,"01/07/2023","Linda, Logan, Alfredo",18,"Habitat-Disturbed","B","RodentBird","1",5,30,30,30,0,6,3,3,0,NA,"LM","SN",5,5,1,1,0,1,0
+"69","18B2Bird",745,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","B","Bird","2",5,28,28,28,0,7,0,7,0,NA,"LM","CS",5,5,1,1,0,0,7
+"70","18B2Control",742,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","B","Control","2",5,30,30,30,0,4,4,0,0,"dry","LM","CS",5,5,1,1,0,1,0
+"71","18B2Full",743,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","B","Full","2",5,30,30,30,0,0,0,0,0,"dry","LM","CS",5,5,1,1,0,NA,NA
+"72","18B2RodentBird",744,"08/07/2023","Linda, Logan, Gugu",18,"Habitat-Disturbed","B","RodentBird","2",5,30,30,30,0,1,1,0,0,NA,"LM","CS",5,5,1,1,0,1,0
+"73","18B3Bird",1041,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","B","Bird","3",5,30,30,30,0,4,4,0,0,"1 germinant damaged","CS","LM",4,5,1,1,0,1,0
+"74","18B3Control",1038,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","B","Control","3",5,30,30,30,0,5,0,0,0,"all dead","CS","LM",4,5,1,1,0,0,5
+"75","18B3Full",1039,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","B","Full","3",5,30,30,30,0,1,0,0,0,"dead","CS","LM",4,5,1,1,0,0,1
+"76","18B3RodentBird",1040,"14/7/2023","Charisse, Logan, Monica, Sebastian",18,"Habitat-Disturbed","B","RodentBird","3",5,30,30,30,0,4,4,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"77","19A1Bird",365,"01/07/2023","Sage, Abbey, Gugu",19,"control","A","Bird","1",5,30,30,30,0,6,6,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"78","19A1Control",362,"01/07/2023","Sage, Abbey, Gugu",19,"control","A","Control","1",5,30,14,14,0,6,6,0,0,NA,"SN","SN",5,5,1,0.466666666666667,16,1,0
+"79","19A1Full",363,"01/07/2023","Sage, Abbey, Gugu",19,"control","A","Full","1",5,30,30,30,0,5,5,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"80","19A1RodentBird",364,"01/07/2023","Sage, Abbey, Gugu",19,"control","A","RodentBird","1",5,30,30,30,0,6,6,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"81","19A2Bird",685,"07/07/2023","Sage, Amy, Curtis, Phum",19,"control","A","Bird","2",4,30,30,30,0,6,6,0,0,NA,"SN","SN",4,4,1,1,0,1,0
+"82","19A2Control",682,"07/07/2023","Sage, Amy, Curtis, Phum",19,"control","A","Control","2",4,30,30,30,0,4,4,0,0,NA,"SN","SN",4,4,1,1,0,1,0
+"83","19A2Full",683,"07/07/2023","Sage, Amy, Curtis, Phum",19,"control","A","Full","2",4,30,30,30,0,4,4,0,0,NA,"SN","SN",4,4,1,1,0,1,0
+"84","19A2RodentBird",684,"07/07/2023","Sage, Amy, Curtis, Phum",19,"control","A","RodentBird","2",4,30,30,30,0,6,6,0,0,NA,"SN","SN",4,4,1,1,0,1,0
+"85","19A3Bird",1045,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","A","Bird","3",5,30,30,30,0,1,1,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"86","19A3Control",1042,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","A","Control","3",5,30,30,30,0,2,5,0,0,NA,"CS","LM",4,5,1,1,0,NA,NA
+"87","19A3Full",1043,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","A","Full","3",5,30,30,30,0,4,4,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"88","19A3RodentBird",1044,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","A","RodentBird","3",5,30,30,30,0,5,5,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"89","19B1Bird",297,"30/06/2023","Sage, Abbey, Gugu",19,"control","B","Bird","1",4,30,30,30,0,7,7,0,0,NA,"SN","LM",4,4,1,1,0,1,0
+"90","19B1Control",294,"30/06/2023","Sage, Abbey, Gugu",19,"control","B","Control","1",4,30,27,27,0,5,5,0,0,NA,"SN","LM",4,4,1,0.9,3,1,0
+"91","19B1Full",295,"30/06/2023","Sage, Abbey, Gugu",19,"control","B","Full","1",4,30,30,30,0,4,4,0,0,NA,"SN","LM",4,4,1,1,0,1,0
+"92","19B1RodentBird",296,"30/06/2023","Sage, Abbey, Gugu",19,"control","B","RodentBird","1",4,30,30,30,0,4,4,0,0,NA,"SN","LM",4,4,1,1,0,1,0
+"93","19B2Bird",697,"08/07/2023","Charisse, Curtis, Monica, Abbey",19,"control","B","Bird","2",5,30,30,30,0,2,2,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"94","19B2Control",694,"08/07/2023","Charisse, Curtis, Monica, Abbey",19,"control","B","Control","2",5,29,29,29,0,4,3,1,0,NA,"CS","CS",5,5,1,1,0,0.75,1
+"95","19B2Full",695,"08/07/2023","Charisse, Curtis, Monica, Abbey",19,"control","B","Full","2",5,30,30,30,0,0,0,0,0,NA,"CS","CS",5,5,1,1,0,NA,NA
+"96","19B2RodentBird",696,"08/07/2023","Charisse, Curtis, Monica, Abbey",19,"control","B","RodentBird","2",5,30,30,30,0,0,0,0,0,NA,"CS","CS",5,5,1,1,0,NA,NA
+"97","19B3Bird",1049,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","B","Bird","3",5,30,30,29,1,3,3,0,0,NA,"CS","LM",4,5,1,0.966666666666667,1,1,0
+"98","19B3Control",1046,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","B","Control","3",5,30,30,30,0,2,2,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"99","19B3Full",1047,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","B","Full","3",5,30,30,30,0,5,5,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"100","19B3RodentBird",1048,"14/7/2023","Charisse, Logan, Monica, Sebastian",19,"control","B","RodentBird","3",5,30,30,30,0,4,4,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"101","2A1Bird",357,"01/07/2023","Sage, Abbey, Gugu",2,"control","A","Bird","1",5,33,33,33,0,5,5,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"102","2A1Control",354,"01/07/2023","Sage, Abbey, Gugu",2,"control","A","Control","1",5,30,30,30,0,5,5,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"103","2A1Full",355,"01/07/2023","Sage, Abbey, Gugu",2,"control","A","Full","1",5,30,30,30,0,3,3,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"104","2A1RodentBird",356,"01/07/2023","Sage, Abbey, Gugu",2,"control","A","RodentBird","1",5,29,29,29,0,7,7,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"105","2A2Bird",717,"08/07/2023","Sage, Amy, Phum",2,"control","A","Bird","2",5,30,30,30,0,4,2,2,0,"dry","SN","CS",5,5,1,1,0,0.5,2
+"106","2A2Control",714,"08/07/2023","Sage, Amy, Phum",2,"control","A","Control","2",5,30,30,30,0,5,5,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"107","2A2Full",715,"08/07/2023","Sage, Amy, Phum",2,"control","A","Full","2",5,30,30,30,0,7,7,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"108","2A2RodentBird",716,"08/07/2023","Sage, Amy, Phum",2,"control","A","RodentBird","2",5,30,30,30,0,4,4,0,0,"dry","SN","CS",5,5,1,1,0,1,0
+"109","2A3Bird",1005,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","A","Bird","3",5,30,30,30,0,3,2,1,0,NA,"LM","LM",4,5,1,1,0,0.666666666666667,1
+"110","2A3Control",1002,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","A","Control","3",5,29,29,29,0,4,4,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"111","2A3Full",1003,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","A","Full","3",5,30,30,30,0,4,4,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"112","2A3RodentBird",1004,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","A","RodentBird","3",5,30,30,30,0,5,5,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"113","2B1Bird",361,"01/07/2023","Sage, Abbey, Gugu",2,"control","B","Bird","1",5,30,30,30,0,9,9,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"114","2B1Control",358,"01/07/2023","Sage, Abbey, Gugu",2,"control","B","Control","1",5,30,30,30,0,8,8,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"115","2B1Full",359,"01/07/2023","Sage, Abbey, Gugu",2,"control","B","Full","1",5,30,30,30,0,9,9,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"116","2B1RodentBird",360,"01/07/2023","Sage, Abbey, Gugu",2,"control","B","RodentBird","1",5,30,30,30,0,9,9,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"117","2B2Bird",721,"08/07/2023","Sage, Amy, Phum",2,"control","B","Bird","2",5,30,30,30,0,8,7,1,0,NA,"SN","CS",5,5,1,1,0,0.875,1
+"118","2B2Control",718,"08/07/2023","Sage, Amy, Phum",2,"control","B","Control","2",5,30,30,30,0,9,0,0,0,"tray overturned by antelope","SN","CS",5,5,1,1,0,0,9
+"119","2B2Full",719,"08/07/2023","Sage, Amy, Phum",2,"control","B","Full","2",5,30,30,30,0,9,9,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"120","2B2RodentBird",720,"08/07/2023","Sage, Amy, Phum",2,"control","B","RodentBird","2",5,30,30,30,0,9,9,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"121","2B3Bird",1009,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","B","Bird","3",5,30,30,30,0,5,5,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"122","2B3Control",1006,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","B","Control","3",5,30,30,30,0,8,8,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"123","2B3Full",1007,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","B","Full","3",5,30,30,30,0,9,9,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"124","2B3RodentBird",1008,"14/7/2023","Linda, Gugu, Abbey, Laurence",2,"control","B","RodentBird","3",5,30,30,30,0,7,7,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"125","3A1Bird",381,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","A","Bird","1",5,29,29,29,0,7,7,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"126","3A1Control",378,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","A","Control","1",5,29,29,29,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"127","3A1Full",379,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","A","Full","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"128","3A1RodentBird",380,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","A","RodentBird","1",5,32,32,32,0,6,6,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"129","3A2Bird",725,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","A","Bird","2",5,29,29,29,0,4,3,1,0,"wilting","SN","CS",5,5,1,1,0,0.75,1
+"130","3A2Control",722,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","A","Control","2",5,30,30,30,0,2,2,0,0,"wilting","SN","CS",5,5,1,1,0,1,0
+"131","3A2Full",723,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","A","Full","2",5,30,30,30,0,9,9,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"132","3A2RodentBird",724,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","A","RodentBird","2",5,31,31,31,0,4,4,0,0,"wilting","SN","CS",5,5,1,1,0,1,0
+"133","3A3Bird",1013,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","A","Bird","3",5,30,20,20,0,5,5,0,0,NA,"LM","LM",4,5,1,0.666666666666667,10,1,0
+"134","3A3Control",1010,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","A","Control","3",5,30,22,20,2,3,3,0,0,NA,"LM","LM",4,5,1,0.666666666666667,10,1,0
+"135","3A3Full",1011,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","A","Full","3",5,30,29,27,2,4,4,0,0,NA,"LM","LM",4,5,1,0.9,3,1,0
+"136","3A3RodentBird",1012,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","A","RodentBird","3",5,30,30,30,0,9,9,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"137","3B1Bird",385,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","B","Bird","1",5,30,30,30,0,8,8,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"138","3B1Control",382,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","B","Control","1",5,30,30,30,0,8,8,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"139","3B1Full",383,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","B","Full","1",5,30,30,30,0,5,5,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"140","3B1RodentBird",384,"01/07/2023","Linda, Logan, Alfredo",3,"Habitat-Disturbed","B","RodentBird","1",5,30,30,30,0,4,4,0,0,NA,"LM","SN",5,5,1,1,0,1,0
+"141","3B2Bird",729,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","B","Bird","2",5,30,30,30,0,8,8,0,0,"wilting","SN","CS",5,5,1,1,0,1,0
+"142","3B2Control",726,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","B","Control","2",5,29,29,29,0,4,4,0,0,"wilting","SN","CS",5,5,1,1,0,1,0
+"143","3B2Full",727,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","B","Full","2",5,30,30,30,0,8,8,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"144","3B2RodentBird",728,"08/07/2023","Sage, Amy, Phum",3,"Habitat-Disturbed","B","RodentBird","2",5,31,31,31,0,4,4,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"145","3B3Bird",1017,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","B","Bird","3",5,30,30,30,0,4,4,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"146","3B3Control",1014,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","B","Control","3",5,30,18,18,0,7,7,0,0,NA,"LM","LM",4,5,1,0.6,12,1,0
+"147","3B3Full",1015,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","B","Full","3",5,30,30,30,0,8,8,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"148","3B3RodentBird",1016,"14/7/2023","Linda, Gugu, Abbey, Laurence",3,"Habitat-Disturbed","B","RodentBird","3",5,30,30,30,0,4,4,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"149","5A1Bird",333,"01/07/2023","Charisse, Amy, Monica",5,"fenced","A","Bird","1",5,30,0,0,0,5,3,2,0,NA,"CS","SN",5,5,1,0,30,0.6,2
+"150","5A1Control",330,"01/07/2023","Charisse, Amy, Monica",5,"fenced","A","Control","1",5,30,15,11,4,8,0,8,0,NA,"CS","SN",5,5,1,0.366666666666667,19,0,8
+"151","5A1Full",331,"01/07/2023","Charisse, Amy, Monica",5,"fenced","A","Full","1",5,30,30,30,0,4,4,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"152","5A1RodentBird",332,"01/07/2023","Charisse, Amy, Monica",5,"fenced","A","RodentBird","1",5,27,27,27,0,5,5,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"153","5A2Bird",733,"08/07/2023","Sage, Amy, Phum",5,"fenced","A","Bird","2",5,30,0,0,0,5,0,5,0,NA,"SN","CS",5,5,1,0,30,0,5
+"154","5A2Control",730,"08/07/2023","Sage, Amy, Phum",5,"fenced","A","Control","2",5,30,0,0,0,4,0,4,0,NA,"SN","CS",5,5,1,0,30,0,4
+"155","5A2Full",611,"06/07/2023","Sage, Amy, Curtis, Phum, Alfredo",5,"fenced","A","Full","2",3,30,30,30,0,4,4,0,0,NA,"SN","CS",3,3,1,1,0,1,0
+"156","5A2RodentBird",732,"08/07/2023","Sage, Amy, Phum",5,"fenced","A","RodentBird","2",5,29,29,29,0,1,1,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"157","5A3Bird",1021,"14/7/2023","Linda, Gugu, Abbey, Laurence",5,"fenced","A","Bird","3",5,30,0,0,0,8,0,8,0,NA,"LM","LM",4,5,1,0,30,0,8
+"158","5A3Control",1018,"14/7/2023","Linda, Gugu, Abbey, Laurence",5,"fenced","A","Control","3",5,30,1,1,0,2,0,2,0,NA,"LM","LM",4,5,1,0.0333333333333333,29,0,2
+"159","5A3Full",947,"13/7/2023","Linda, Gugu,Abbey, Laurence",5,"fenced","A","Full","3",4,30,30,30,0,1,1,0,0,NA,"LM","LM",3,4,1,1,0,1,0
+"160","5APilotBird",34,"24/06/2023","Charisse, Linda, Logan",5,"fenced","A","Bird","Pilot",2,20,20,20,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,1,0,NA,NA
+"161","5APilotControl",33,"24/06/2023","Charisse, Linda, Logan",5,"fenced","A","Control","Pilot",2,20,20,20,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,1,0,NA,NA
+"162","5B1Bird",337,"01/07/2023","Charisse, Amy, Monica",5,"fenced","B","Bird","1",5,30,0,0,0,8,0,8,0,NA,"CS","SN",5,5,1,0,30,0,8
+"163","5B1Control",334,"01/07/2023","Charisse, Amy, Monica",5,"fenced","B","Control","1",5,30,0,0,0,3,0,3,0,NA,"CS","SN",5,5,1,0,30,0,3
+"164","5B1Full",335,"01/07/2023","Charisse, Amy, Monica",5,"fenced","B","Full","1",5,30,30,30,0,6,6,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"165","5B1RodentBird",336,"01/07/2023","Charisse, Amy, Monica",5,"fenced","B","RodentBird","1",5,9,9,8,1,4,1,3,0,NA,"CS","SN",3,5,1,0.888888888888889,1,1,0
+"166","5B2Bird",737,"08/07/2023","Sage, Amy, Phum",5,"fenced","B","Bird","2",5,30,0,0,0,2,0,2,0,NA,"SN","CS",5,5,1,0,30,0,2
+"167","5B2Control",734,"08/07/2023","Sage, Amy, Phum",5,"fenced","B","Control","2",5,30,0,0,0,2,0,2,0,NA,"SN","CS",5,5,1,0,30,0,2
+"168","5B2Full",735,"08/07/2023","Sage, Amy, Phum",5,"fenced","B","Full","2",5,30,30,30,0,5,5,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"169","5B2RodentBird",736,"08/07/2023","Sage, Amy, Phum",5,"fenced","B","RodentBird","2",5,30,30,30,0,2,2,0,0,NA,"SN","CS",5,5,1,1,0,1,0
+"170","5B3Bird",1025,"14/7/2023","Linda, Gugu, Abbey, Laurence",5,"fenced","B","Bird","3",5,30,0,0,0,4,0,4,0,NA,"LM","LM",4,5,1,0,30,0,4
+"171","5B3Control",1022,"14/7/2023","Linda, Gugu, Abbey, Laurence",5,"fenced","B","Control","3",5,30,0,0,0,5,0,5,0,NA,"LM","LM",4,5,1,0,30,0,5
+"172","5B3Full",1023,"14/7/2023","Linda, Gugu, Abbey, Laurence",5,"fenced","B","Full","3",5,30,30,30,0,4,4,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"173","5B3RodentBird",1024,"14/7/2023","Linda, Gugu, Abbey, Laurence",5,"fenced","B","RodentBird","3",5,30,30,30,0,2,2,0,0,NA,"LM","LM",4,5,1,1,0,1,0
+"174","5BPilotBird",36,"24/06/2023","Charisse, Linda, Logan",5,"fenced","B","Bird","Pilot",2,20,0,0,0,NA,NA,NA,NA,NA,"CS","SN",2,2,1,0,20,NA,NA
+"175","5BPilotControl",35,"24/06/2023","Charisse, Linda, Logan",5,"fenced","B","Control","Pilot",2,20,0,0,9,NA,NA,NA,NA,NA,"CS","SN",2,2,1,0,20,NA,NA
+"176","6A1Bird",341,"01/07/2023","Charisse, Amy, Monica",6,"fenced","A","Bird","1",5,30,28,28,0,4,4,0,0,NA,"CS","SN",5,5,1,0.933333333333333,2,1,0
+"177","6A1Control",338,"01/07/2023","Charisse, Amy, Monica",6,"fenced","A","Control","1",5,28,28,28,0,8,8,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"178","6A1Full",339,"01/07/2023","Charisse, Amy, Monica",6,"fenced","A","Full","1",5,30,30,30,0,5,5,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"179","6A1RodentBird",340,"01/07/2023","Charisse, Amy, Monica",6,"fenced","A","RodentBird","1",5,30,30,30,0,6,6,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"180","6A2Bird",701,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","A","Bird","2",5,30,0,0,0,5,5,0,0,NA,"CS","CS",5,5,1,0,30,1,0
+"181","6A2Control",698,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","A","Control","2",5,30,0,0,0,6,5,1,0,NA,"CS","CS",5,5,1,0,30,0.833333333333333,1
+"182","6A2Full",699,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","A","Full","2",5,30,30,30,0,8,8,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"183","6A2RodentBird",700,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","A","RodentBird","2",5,30,30,30,0,4,4,0,0,NA,"CS","CS",5,5,1,1,0,1,0
+"184","6A3Bird",1029,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","A","Bird","3",5,30,23,23,0,5,5,0,0,NA,"CS","LM",4,5,1,0.766666666666667,7,1,0
+"185","6A3Control",1026,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","A","Control","3",5,30,30,30,0,8,8,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"186","6A3Full",1027,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","A","Full","3",5,30,30,30,0,4,4,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"187","6A3RodentBird",1028,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","A","RodentBird","3",5,30,30,30,0,5,5,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"188","6APilotBird",28,"24/06/2023","Sage",6,"fenced","A","Bird","Pilot",4,30,29,29,0,7,7,0,0,NA,"SN","SN",4,4,1,0.966666666666667,1,1,0
+"189","6APilotControl",25,"24/06/2023","Sage",6,"fenced","A","Control","Pilot",4,30,25,25,0,5,5,0,0,NA,"SN","SN",4,4,1,0.833333333333333,5,1,0
+"190","6APilotFull",26,"24/06/2023","Sage",6,"fenced","A","Full","Pilot",4,30,30,30,0,7,7,0,0,NA,"SN","SN",4,4,1,1,0,1,0
+"191","6APilotRodentBird",27,"24/06/2023","Sage",6,"fenced","A","RodentBird","Pilot",4,30,30,30,0,7,7,0,0,NA,"SN","SN",4,4,1,1,0,1,0
+"192","6B1Bird",345,"01/07/2023","Charisse, Amy, Monica",6,"fenced","B","Bird","1",5,30,5,5,0,5,0,5,0,NA,"CS","SN",5,5,1,0.166666666666667,25,0,5
+"193","6B1Control",342,"01/07/2023","Charisse, Amy, Monica",6,"fenced","B","Control","1",5,30,0,0,0,4,4,0,0,NA,"CS","SN",5,5,1,0,30,1,0
+"194","6B1Full",343,"01/07/2023","Charisse, Amy, Monica",6,"fenced","B","Full","1",5,30,30,30,0,4,4,0,0,NA,"CS","SN",5,5,1,1,0,1,0
+"195","6B1RodentBird",112,"27/06/2023","Sage, Amy, Gugu, Phum, Monica, Charisse",6,"fenced","B","RodentBird","1",1,30,30,30,0,6,6,0,0,"1 cotyledon","CS","SN",1,1,1,1,0,1,0
+"196","6B2Bird",705,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","B","Bird","2",5,30,0,0,0,4,0,4,0,NA,"CS","CS",5,5,1,0,30,0,4
+"197","6B2Control",702,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","B","Control","2",5,30,1,1,0,5,0,5,0,NA,"CS","CS",5,5,1,0.0333333333333333,29,0,5
+"198","6B2Full",703,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","B","Full","2",5,30,30,30,0,4,0,4,0,NA,"CS","CS",5,5,1,1,0,NA,NA
+"199","6B2RodentBird",704,"08/07/2023","Charisse, Curtis, Monica, Abbey",6,"fenced","B","RodentBird","2",5,30,30,30,0,5,5,0,0,"seed tray flipped","CS","CS",5,5,1,1,0,1,0
+"200","6B3Bird",1033,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","B","Bird","3",5,30,0,0,0,5,0,5,0,NA,"CS","LM",4,5,1,0,30,0,5
+"201","6B3Control",1030,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","B","Control","3",5,30,0,0,0,5,0,5,0,NA,"CS","LM",4,5,1,0,30,0,5
+"202","6B3Full",1031,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","B","Full","3",5,30,30,30,0,6,6,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"203","6B3RodentBird",1032,"14/7/2023","Charisse, Logan, Monica, Sebastian",6,"fenced","B","RodentBird","3",5,30,30,30,0,6,6,0,0,NA,"CS","LM",4,5,1,1,0,1,0
+"204","6BPilotBird",32,"24/06/2023","Sage",6,"fenced","B","Bird","Pilot",2,30,18,18,0,6,6,0,0,"One new seedling sprout","SN","SN",2,2,1,0.6,12,1,0
+"205","6BPilotControl",29,"24/06/2023","Sage",6,"fenced","B","Control","Pilot",2,30,1,1,0,5,5,0,0,NA,"SN","SN",2,2,1,0.0333333333333333,29,1,0
+"206","6BPilotFull",30,"24/06/2023","Sage",6,"fenced","B","Full","Pilot",2,30,29,29,0,5,3,0,2,"Cut cotyledon","SN","SN",2,2,1,0.966666666666667,1,0.6,2
+"207","6BPilotRodentBird",31,"24/06/2023","Sage",6,"fenced","B","RodentBird","Pilot",2,30,30,30,0,5,5,0,0,NA,"SN","SN",2,2,1,1,0,1,0
+"208","8A1Bird",373,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","A","Bird","1",5,30,30,30,0,6,6,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"209","8A1Control",370,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","A","Control","1",5,29,29,29,0,5,5,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"210","8A1Full",371,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","A","Full","1",5,30,30,30,0,2,2,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"211","8A1RodentBird",372,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","A","RodentBird","1",5,30,30,30,0,3,3,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"212","8A2Bird",749,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","A","Bird","2",5,30,27,27,0,3,3,0,0,NA,"LM","CS",5,5,1,0.9,3,1,0
+"213","8A2Control",746,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","A","Control","2",5,29,29,29,0,7,5,2,0,NA,"LM","CS",5,5,1,1,0,0.714285714285714,2
+"214","8A2Full",747,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","A","Full","2",5,30,30,30,0,2,2,0,0,NA,"LM","CS",5,5,1,1,0,1,0
+"215","8A2RodentBird",748,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","A","RodentBird","2",5,30,30,30,0,4,4,0,0,NA,"LM","CS",5,5,1,1,0,1,0
+"216","8A3Bird",1053,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","A","Bird","3",5,28,28,28,0,3,2,1,0,NA,"SN","LM",5,5,1,1,0,0.666666666666667,1
+"217","8A3Control",1050,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","A","Control","3",5,30,8,8,0,6,6,0,0,NA,"SN","LM",5,5,1,0.266666666666667,22,1,0
+"218","8A3Full",1051,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","A","Full","3",5,30,30,30,0,2,2,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"219","8A3RodentBird",1052,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","A","RodentBird","3",5,30,30,30,0,3,3,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"220","8B1Bird",377,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","B","Bird","1",5,30,0,0,0,4,0,4,0,NA,"SN","SN",5,5,1,0,30,0,4
+"221","8B1Control",374,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","B","Control","1",5,30,18,16,2,5,1,4,0,NA,"SN","SN",5,5,1,0.533333333333333,14,0.2,4
+"222","8B1Full",375,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","B","Full","1",5,30,30,30,0,4,4,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"223","8B1RodentBird",376,"01/07/2023","Sage, Abbey, Gugu",8,"Habitat-Disturbed","B","RodentBird","1",5,30,30,30,0,4,4,0,0,NA,"SN","SN",5,5,1,1,0,1,0
+"224","8B2Bird",753,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","B","Bird","2",5,30,15,15,0,4,0,4,0,NA,"LM","CS",5,5,1,0.5,15,0,4
+"225","8B2Control",750,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","B","Control","2",5,30,2,2,0,4,0,4,0,NA,"LM","CS",5,5,1,0.0666666666666667,28,0,4
+"226","8B2Full",751,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","B","Full","2",5,29,29,29,0,0,0,0,0,NA,"LM","CS",5,5,1,1,0,NA,NA
+"227","8B2RodentBird",752,"08/07/2023","Linda, Logan, Gugu",8,"Habitat-Disturbed","B","RodentBird","2",5,30,30,30,0,1,0,1,0,NA,"LM","CS",5,5,1,1,0,0,1
+"228","8B3Bird",1057,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","B","Bird","3",5,30,0,0,0,1,0,1,0,NA,"SN","LM",5,5,1,0,30,0,1
+"229","8B3Control",1054,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","B","Control","3",5,30,0,0,0,4,0,4,0,NA,"SN","LM",5,5,1,0,30,0,4
+"230","8B3Full",1055,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","B","Full","3",5,30,30,30,0,3,3,0,0,NA,"SN","LM",5,5,1,1,0,1,0
+"231","8B3RodentBird",1056,"14/7/2023","Sage, Amy, Curtis, Phum",8,"Habitat-Disturbed","B","RodentBird","3",5,30,30,30,0,4,4,0,0,NA,"SN","LM",5,5,1,1,0,1,0
