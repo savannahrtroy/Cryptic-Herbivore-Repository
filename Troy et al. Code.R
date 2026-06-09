@@ -17,11 +17,19 @@ library(car)
 seed <- readRDS("ProcB_CodePackage/bothseason_seed.rds")
 germ <- readRDS("ProcB_CodePackage/bothseason_germinant.rds")
 
-#seed$obs <- 1:nrow(seed)
-#germ$obs <- 1:nrow(germ)
-
 seed$TrialNo <- as.factor(seed$TrialNo)
 germ$TrialNo <- as.factor(germ$TrialNo)
+
+### proportion consumed in all treatments
+seedprop <- seed %>% 
+  group_by(PlotType, Treatment, season) %>% 
+  summarise(mean.seed=mean(seed.ratio5),
+            SE.seed = plotrix::std.error(seed.ratio5,na.rm=T))
+
+germprop <- germ %>% 
+  group_by(PlotType, Treatment, season) %>% 
+  summarise(mean.germ=mean(germ.ratio5),
+            SE.germ = plotrix::std.error(germ.ratio5,na.rm=T))
 
 #### Main Analysis ####
 
@@ -100,6 +108,47 @@ output_gb <- rbind(output_gb, lg.germ.output)
 
 Anova(m1both_germ)
 Anova(m1both_seed)
+
+
+#### What are the results in the units of # seeds / # germinants eaten? ####
+
+# Get results in 'response' probability units
+emm_prob_seed <- regrid(emm_int_sb, transform = "response")
+emm_prob_germ <- regrid(emm_int_gb, transform = "response")
+
+# Apply the same contrasts on the probability scale 
+eff_prob_seed <- contrast(emm_prob_seed, list(
+  invertebrate = c(0, 0, 1, -1),
+  bird         = c(-1, 1, 0, 0),
+  rodent       = c(0, -1, 0, 1),
+  all          = c(-1, 0, 1, 0)
+))
+eff_prob_germ <- contrast(emm_prob_germ, list(
+  invertebrate = c(0, 0, 1, -1),
+  bird         = c(-1, 1, 0, 0),
+  rodent       = c(0, -1, 0, 1),
+  all          = c(-1, 0, 1, 0)
+))
+
+output_prob_seed <- confint(eff_prob_seed, level = 0.95)
+output_prob_germ <- confint(eff_prob_germ, level = 0.95)
+
+#Large mammal contrast
+emm_prob_lms <- regrid(lgtest, transform = "response")
+emm_prob_lmg <- regrid(lg.germ, transform = "response")
+
+lgtest.eff.prob.s <- contrast(emm_prob_lms, list(large_mammal =c(-0.5,0,0,0,1,0,0,0,-0.5,0,0,0)))
+lgtest.eff.prob.g <- contrast(emm_prob_lmg, list(large_mammal =c(-0.5,0,0,0,1,0,0,0,-0.5,0,0,0)))
+
+lg.seed.output <- confint(lgtest.eff.prob.s, level = 0.95)
+lg.germ.output <- confint(lgtest.eff.prob.g, level = 0.95)
+
+# combine
+
+output_prob_seed <- rbind(output_prob_seed, lg.seed.output)
+output_prob_germ <- rbind(output_prob_germ, lg.germ.output)
+
+# estimate = proportion seeds/germs consumed out of total
 
 #### Analyses in Supplement ####
 
